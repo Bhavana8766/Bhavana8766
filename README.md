@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**Bhavana8766/Bhavana8766** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Bhavana! 👋
 
-Here are some ideas to get you started:
+### Mechanical Engineering Student | Aspiring Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a third-year Mechanical Engineering student interested in engineering design, robotics, and emerging technologies.
+
+I enjoy exploring how engineering concepts can be transformed into practical solutions.
+
+### 🛠️ Technical Interests
+- Mechanical Design & CAD
+- Robotics and Automation
+- Hydrogen Energy Systems
+- Python Programming
+- Engineering Simulation
+
+### 🚀 Featured Projects
+
+**1. HyPower 5K – Next-Gen Hydrogen Generator**
+- Hydrogen-based power generation concept
+- Virtual Twin dashboard
+- Real-time monitoring and visualisation
+
+### 📚 Currently Learning
+- Git & GitHub
+- Advanced CAD,Solidworks,CATIA
+- Programming
+- Engineering Design
+
+### 🤝 Let's Connect
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/bhavana-yangaldas-6a9976338/)
+
